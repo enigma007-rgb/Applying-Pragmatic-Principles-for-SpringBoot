@@ -1,4 +1,3 @@
-# Applying-Pragmatic-Principles
 
 # Applying Pragmatic Principles to Learning and Building with Spring Boot
 
